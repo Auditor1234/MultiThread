@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/AsyncTask.dir/main.cpp.o -o AsyncTask 

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/PC",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/PC.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/PC/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/PC/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/PCBusyWait",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/PCBusyWait.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/PCBusyWait/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/PCBusyWait/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/CallOnce",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/CallOnce.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/CallOnce/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/CallOnce/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/Concurrent",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Concurrent.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/Concurrent/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/Concurrent/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/AvoidDeadLock",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/AvoidDeadLock.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/AvoidDeadLock/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/AvoidDeadLock/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/CondDeadLock",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/CondDeadLock.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/CondDeadLock/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/CondDeadLock/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/AsyncTask",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/AsyncTask.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/AsyncTask/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/AsyncTask/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/AsyncClassFunc",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/AsyncClassFunc.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/AsyncClassFunc/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/AsyncClassFunc/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/PackageTask",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/PackageTask.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/PackageTask/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/PackageTask/main.cpp"
+},
+{
+  "directory": "/home/lzr/ProgramFiles/cplusplus/MultiThread/build/PromiseFuture",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/PromiseFuture.dir/main.cpp.o -c /home/lzr/ProgramFiles/cplusplus/MultiThread/PromiseFuture/main.cpp",
+  "file": "/home/lzr/ProgramFiles/cplusplus/MultiThread/PromiseFuture/main.cpp"
+}
+]
