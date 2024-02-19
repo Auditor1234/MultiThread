@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/AsyncClassFunc.dir/main.cpp.o -o AsyncClassFunc 

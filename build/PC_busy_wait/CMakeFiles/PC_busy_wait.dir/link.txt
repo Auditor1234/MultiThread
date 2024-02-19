@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/PC_busy_wait.dir/main.cpp.o -o PC_busy_wait 
